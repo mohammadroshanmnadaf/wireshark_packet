@@ -8,15 +8,16 @@
 To capture live network traffic, analyze common protocols, and understand how data flows across a network. The captured `.pcap` file is analyzed using protocol filters, and findings are documented here.
 
 **Protocols Found**:
-DNS   -    Domain Name System |
-HTTP  -    Hypertext Transfer Protocol |
-TCP   -   Transmission Control Protocol |
-UDP   -    User Datagram Protocol |
-ICMP  -   Internet Control Message Protocol|
-TLS   -   Transport Layer Security |
-ARP   -    Address Resolution Protocol |
-QUIC  -    Quick UDP Internet Connections |
-mDNS  -    Multicast DNS|  
+- DNS   - Domain Name System
+- HTTP  - Hypertext Transfer Protocol
+- TCP   - Transmission Control Protocol
+- UDP   - User Datagram Protocol
+- ICMP  - Internet Control Message Protocol
+- TLS   - Transport Layer Security
+- ARP   - Address Resolution Protocol
+- QUIC  - Quick UDP Internet Connections
+- mDNS  - Multicast DNS
+  
 
 
 - Most frequent traffic: HTTP and DNS  
